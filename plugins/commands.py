@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('Updates Channel🍿🎬', url='https://t.me/LordshipMovies')
+                InlineKeyboardButton('Updates Channel🍿🎬', url='https://t.me/Adultship')
             ],
             [
                 InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -45,10 +45,10 @@ async def start(client, message):
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('Search Here 🔍', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('Updates Channel🍿🎬', url='https://t.me/LordshipMovies')
+            InlineKeyboardButton('Updates Channel🍿🎬', url='https://t.me/Adultship')
             ],[
             InlineKeyboardButton('Series Bot🎥', url='https://t.me/Lordship_Series'),
-            InlineKeyboardButton('Adult Bot🔞', url='https://t.me/Adultship')
+            InlineKeyboardButton('Movie Bot', url='https://t.me/Lordshipmovies')
             ],[
             InlineKeyboardButton('Help ⚙', callback_data='help'),
             InlineKeyboardButton('♻️ ᴀʙᴏᴜᴛ ♻️', callback_data='about')
@@ -94,10 +94,10 @@ async def start(client, message):
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('Search Here 🔍', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('Updates Channel🍿🎬', url='https://t.me/LordshipMovies')
+            InlineKeyboardButton('Updates Channel🍿🎬', url='https://t.me/Adultship')
             ],[
             InlineKeyboardButton('Series Bot🎥', url='https://t.me/Lordship_series'),
-            InlineKeyboardButton('Adult Bot🔞', url='https://t.me/Adultship')
+            InlineKeyboardButton('Movie Bot', url='https://t.me/Lordshipmovie')
             ],[
             InlineKeyboardButton('Help ⚙', callback_data='help'),
             InlineKeyboardButton('♻️ ᴀʙᴏᴜᴛ ♻️', callback_data='about')
