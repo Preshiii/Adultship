@@ -1,9 +1,9 @@
 class script(object):
     START_TXT = """<b>𝙷𝙴𝙻𝙾 {} 🥰🙋‍♀</b>
     
-<b>Hey Sweetheart, My Name Is <a href=https://t.me/{}>{}</a>. I'm a Powerful Movie Auto-Filter Bot.</b>
+<b>Hey Sweetheart, My Name Is <a href=https://t.me/{}>{}</a>. I'm a Powerful Porn Movie Auto-Filter Bot.</b>
 
-<b>Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provide Tons of Movies There..😍</b>"""
+<b>Just Add Me To Your Group As Admin, Thats All, i will Provide Tons of Porn Movies There..😍\n\nYou can also send me the name of the porn movie here and I'll deliver it to you...😍</b>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
     
 <b>○ PLEASE DONT SPAM ME...🤒</b>
