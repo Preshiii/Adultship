@@ -1,5 +1,5 @@
 {
-    "name": "Jstatham",
+    "name": "Adultship",
     "description": "When you send a something on telegram channel, I will save that in my database, So you can search for it easily",
     "stack": "container",
     "keywords": [
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/JoeykingTG/JoeyKing",
-    "repository": "https://github.com/JoeykingTG/JoeyKing",
+    "website": "https://github.com/AdultshipTG/Adultship",
+    "repository": "https://github.com/AdultshipTG/Adultship",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
